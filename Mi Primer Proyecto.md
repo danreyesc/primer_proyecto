@@ -1,2 +1,2 @@
 # primer_proyecto
-print("Hola, Mundo")
+Hola, Mundo!
